@@ -48,17 +48,17 @@ const Feed = () => {
           <LogoBold className='logo'/>
         </Links>
         <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#fff", textAlign:"center" }}>
-          Web App by: <span style={{ color: "#97BC62FF", fontWeight:"bold"}}> Stefan Miranda</span>
+          Web App by: <span style={{ color: "#97BC62FF", fontWeight:"bold"}}> TheCleverCoder777</span>
         </Typography>
         <Box className='copyright logo' style={{ display: "flex", alignItems: "center", gap:'10px', marginTop:'10px' }}>
           <Links>
-            <a href="https://github.com/Stefan-migo" target='_blank' ><GitHubIcon style={{fill:'white'}}/></a>
+            <a href="https://justube.vercel.app" target='_blank' ><GitHubIcon style={{fill:'white'}}/></a>
           </Links>
           <Links>
-            <a href="https://www.instagram.com/leberland/" target='_blank' ><InstagramIcon style={{fill:'white'}}/></a>
+            <a href="https://justube.vercel.app" target='_blank' ><InstagramIcon style={{fill:'white'}}/></a>
           </Links>
           <Links>
-            <a href="https://www.linkedin.com/in/stefan-miranda-gonzalez-787387118/" target='_blank' ><LinkedInIcon style={{fill:'white'}}/></a>
+            <a href="https://justube.vercel.app" target='_blank' ><LinkedInIcon style={{fill:'white'}}/></a>
           </Links>
         </Box>
       </Box>
