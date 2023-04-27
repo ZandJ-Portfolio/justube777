@@ -58,13 +58,13 @@ const Feed = () => {
         </Typography>
         <Box className='copyright logo' style={{ display: "flex", alignItems: "center", gap:'10px', marginTop:'10px' }}>
           <Links>
-            <a href="https://justube.vercel.app" target='_blank' ><GitHubIcon style={{fill:'white'}}/></a>
+            <a href="https://justube777.vercel.app" target='_blank' ><GitHubIcon style={{fill:'white'}}/></a>
           </Links>
           <Links>
-            <a href="https://justube.vercel.app" target='_blank' ><InstagramIcon style={{fill:'white'}}/></a>
+            <a href="https://justube777.vercel.app" target='_blank' ><InstagramIcon style={{fill:'white'}}/></a>
           </Links>
           <Links>
-            <a href="https://justube.vercel.app" target='_blank' ><LinkedInIcon style={{fill:'white'}}/></a>
+            <a href="https://justube777.vercel.app" target='_blank' ><LinkedInIcon style={{fill:'white'}}/></a>
           </Links>
         </Box>
       </Box>
