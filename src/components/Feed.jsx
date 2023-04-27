@@ -4,11 +4,8 @@ import { Box, Stack, Typography } from "@mui/material";
 import { fetchFromAPI } from "../utils/fetchFromAPI";
 import { Videos, Sidebar } from "./";
 
-import LogoBold from "../assets/LogoBold"
-import Links from '@mui/material/Link'; 
-import InstagramIcon from '@mui/icons-material/Instagram';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import GitHubIcon from '@mui/icons-material/GitHub';
+
+
 
 
 
